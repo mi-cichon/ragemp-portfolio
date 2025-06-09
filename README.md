@@ -36,18 +36,6 @@ Web: HTML + JS/JQuery + CSS
 - Ekwipunek podzielony na sloty
 - Tablet pełniący funkcję panelu serwerowego, dający dostęp do informacji i ustawień
 
-**Zdjęcia:**
-
-<img alt="login_pl.jpg" src="images/login_pl.jpg" width="600"/>
-<img alt="login_en.jpg" src="images/login_en.jpg" width="600"/>
-<img alt="register_error.jpg" src="images/register_error.jpg" width="600"/>
-<img alt="spawn_selection.jpg" src="images/spawn_selection.jpg" width="600"/>
-<img alt="hud.jpg" src="images/hud.jpg" width="600"/>
-<img alt="chat.jpg" src="images/chat.jpg" width="600"/>
-<img alt="error_notification.jpg" src="images/error_notification.jpg" width="600"/>
-<img alt="speedometer.jpg" src="images/speedometer.jpg" width="600"/>
-<img alt="speedometer_controls.jpg" src="images/speedometer_controls.jpg" width="600"/>
-
 ### Projekt 2 - BasicRPG
 Mój drugi poważny projekt. W nim włożyłem najwięcej czasu w architekturę backendu. 
 Głównym celem było stworzenie środowiska programistycznego które narzuci strukturę i sprawi że utrzymanie kodu w przyszłości będzie łatwiejsze.
@@ -66,6 +54,18 @@ Web: Angular 19
 - HUD postaci z podstawowymi statystykami
 - Czat globalny/prywatny/lokalny/informacyjny
 - Licznik pojazdu z interaktywnym panelem zarządzania pojazdem
+
+**Zdjęcia:**
+
+<img alt="login_pl.jpg" src="images/login_pl.jpg" width="600"/>
+<img alt="login_en.jpg" src="images/login_en.jpg" width="600"/>
+<img alt="register_error.jpg" src="images/register_error.jpg" width="600"/>
+<img alt="spawn_selection.jpg" src="images/spawn_selection.jpg" width="600"/>
+<img alt="hud.jpg" src="images/hud.jpg" width="600"/>
+<img alt="chat.jpg" src="images/chat.jpg" width="600"/>
+<img alt="error_notification.jpg" src="images/error_notification.jpg" width="600"/>
+<img alt="speedometer.jpg" src="images/speedometer.jpg" width="600"/>
+<img alt="speedometer_controls.jpg" src="images/speedometer_controls.jpg" width="600"/>
 
 ## Umiejętności Techniczne
 - **Języki programowania:** C#, SQL/TSQL, JavaScript, TypeScript
