@@ -20,10 +20,10 @@ Pisząc ten serwer skupiałem się głównie na szybkiej implementacji, po czasi
 Ma on sporo działających funkcjonalności, aczkolwiek nie jestem dumny z większości rozwiązań pod względem czystości i utrzymania kodu.
 
 **Technologie:**
-Serwer: .NET Core 3.1
-Baza danych: MySQL
-Klient: JS
-Web: HTML + JS/JQuery + CSS
+- Serwer: .NET Core 3.1
+- Baza danych: MySQL
+- Klient: JS
+- Web: HTML + JS/JQuery + CSS
 
 **Główne osiągnięcia:**
 - 10 funkcjonujących prac
@@ -42,15 +42,15 @@ Głównym celem było stworzenie środowiska programistycznego które narzuci st
 Funkcjonalności które na nim zaimplementowałem nie są obszerne, ale starałem się zmaksymalizować ich jakość.
 
 **Technologie:**
-Serwer: .NET 9.0
-Baza danych: PostgreSQL
-Klient: JS (z podejściami do TS)
-Web: Angular 19
+- Serwer: .NET 9.0
+- Baza danych: PostgreSQL
+- Klient: JS (z podejściami do TS)
+- Web: Angular 19
 
 **Główne osiągnięcia:**
 - Panel logowania z dynamiczną zmianą języka w którym wyświetlane jest UI serwera (i18n)
 - Panel rejestracji z walidacją
-- Ekran wyboru postaci
+- Ekran wyboru spawnu
 - HUD postaci z podstawowymi statystykami
 - Czat globalny/prywatny/lokalny/informacyjny
 - Licznik pojazdu z interaktywnym panelem zarządzania pojazdem
